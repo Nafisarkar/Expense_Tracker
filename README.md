@@ -1,5 +1,7 @@
 # 💰 Expense Tracker
 
+![Expense Tracker Banner](Images/banner.webp "Expense Tracker")
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -264,10 +266,3 @@ If you find this project helpful, please consider:
 - [Lucide](https://lucide.dev/) - For beautiful icons
 
 ---
-
-<div align="center">
-  <p>Built with ❤️ by developers, for developers</p>
-  
-  [![GitHub stars](https://img.shields.io/github/stars/yourusername/expense-tracker?style=social)](https://github.com/yourusername/expense-tracker/stargazers)
-  [![GitHub forks](https://img.shields.io/github/forks/yourusername/expense-tracker?style=social)](https://github.com/yourusername/expense-tracker/network/members)
-</div>
