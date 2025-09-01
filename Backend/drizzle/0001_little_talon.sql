@@ -1,0 +1,1 @@
+CREATE TYPE "public"."transaction_type" AS ENUM('income', 'expense');
